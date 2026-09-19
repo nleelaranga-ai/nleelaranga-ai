@@ -190,8 +190,6 @@ As a **Smart India Hackathon Team Lead** (SIH 2026 & SIH 25029) and former **Goo
 ---
 
 ### 🏆 Hackathon Leadership & Honors
-
-* 🥇 **Team Lead — Smart India Hackathon 2026 (SIH26106)**: Architected *TraceMail-AI*, the premier cyber forensics platform selected for automated phishing investigation and IOC attribution.
 * 🥇 **Team Lead — Smart India Hackathon (SIH 25029)**: Spearheaded development of *Authenticity Validator*, combining computer vision OCR and distributed ledgers for academic credential verification.
 * 🎖️ **Top 35 Finalist — TechSprint Hackathon**: Competed against 500+ teams nationwide with high-impact software solutions.
 * ⚡ **Google Student Representative (Gemini AI)**: Selected by Google to spearhead on-campus developer cohorts, leading technical workshops on prompt engineering, Gemini API microservices, and Vertex AI.
