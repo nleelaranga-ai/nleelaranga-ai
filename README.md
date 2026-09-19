@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="./assets/hero-banner.svg" alt="Leela Ranga Prasad - AI Engineer Hero Banner" width="100%" />
+<img src="./assets/hero-banner.png" alt="Leela Ranga Prasad - AI Engineer Hero Banner" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/nleelaranga-ai">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=false&width=780&height=45&lines=AI+Engineer+%7C+Building+Autonomous+Agentic+Systems;Production-Grade+Generative+AI+%26+Cyber+Threat+Intel;Full+Stack+SWE+%7C+FastAPI+%E2%80%A2+Next.js+15+%E2%80%A2+PyTorch" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=false&width=780&height=45&lines=AI+Engineer+%7C+Building+Autonomous+Agentic+Systems;Smart+India+Hackathon+2026+Team+Lead+(SIH26106);Production-Grade+Generative+AI+%26+Cyber+Threat+Intel;Full+Stack+SWE+%7C+FastAPI+%E2%80%A2+Next.js+15+%E2%80%A2+PyTorch" alt="Typing Animation" />
 </a>
 
 <p align="center">
@@ -190,6 +190,8 @@ As a **Smart India Hackathon Team Lead** (SIH 2026 & SIH 25029) and former **Goo
 ---
 
 ### 🏆 Hackathon Leadership & Honors
+
+* 🥇 **Team Lead — Smart India Hackathon 2026 (SIH26106)**: Architected *TraceMail-AI*, the premier cyber forensics platform selected for automated phishing investigation and IOC attribution.
 * 🥇 **Team Lead — Smart India Hackathon (SIH 25029)**: Spearheaded development of *Authenticity Validator*, combining computer vision OCR and distributed ledgers for academic credential verification.
 * 🎖️ **Top 35 Finalist — TechSprint Hackathon**: Competed against 500+ teams nationwide with high-impact software solutions.
 * ⚡ **Google Student Representative (Gemini AI)**: Selected by Google to spearhead on-campus developer cohorts, leading technical workshops on prompt engineering, Gemini API microservices, and Vertex AI.
