@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/nleelaranga-ai">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=false&width=780&height=45&lines=AI+Engineer+%7C+Building+Autonomous+Agentic+Systems;Smart+India+Hackathon+2026+Team+Lead+(SIH26106);Production-Grade+Generative+AI+%26+Cyber+Threat+Intel;Full+Stack+SWE+%7C+FastAPI+%E2%80%A2+Next.js+15+%E2%80%A2+PyTorch" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=false&width=780&height=45&lines=AI+Engineer+%7C+Building+Autonomous+Agentic+Systems;Production-Grade+Generative+AI+%26+Cyber+Threat+Intel;Full+Stack+SWE+%7C+FastAPI+%E2%80%A2+Next.js+15+%E2%80%A2+PyTorch" alt="Typing Animation" />
 </a>
 
 <p align="center">
