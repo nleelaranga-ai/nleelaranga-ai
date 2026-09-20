@@ -92,32 +92,6 @@ As an **AI Systems Architect** and former **Google Student Representative (Gemin
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🧭 <a href="https://github.com/nleelaranga-ai/CareerPilot-AI">CareerPilot-AI</a></h3>
-      <p><b>AI-Powered Career Trajectory & Resume Intelligence Copilot</b></p>
-      <p>Autonomous career copilot analyzing engineering resumes against live industry skill graphs. Features ATS semantic scoring, gap-fill curriculum generation, mock technical interview evaluations, and personalized FAANG application tracking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-      </p>
-      <p>🔗 <a href="https://github.com/nleelaranga-ai/CareerPilot-AI"><b>View Career Copilot →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🅿️ <a href="https://github.com/nleelaranga-ai/ParkShare">ParkShare</a></h3>
-      <p><b>Decentralized Peer-to-Peer Urban Parking Allocation Platform</b></p>
-      <p>Real-time distributed booking platform pairing space owners with urban commuters. Employs geospatial indexing (H3 / PostGIS), dynamic surge pricing algorithms, automated slot reservation locks, and instant QR verification.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Mapbox_GL-000000?style=flat-square&logo=mapbox&logoColor=white" />
-      </p>
-      <p>🔗 <a href="https://github.com/nleelaranga-ai/ParkShare"><b>View Architecture & Booking Engine →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="left">🤖 <a href="https://github.com/nleelaranga-ai/AI_Buddy_WA">AI_Buddy_WA</a></h3>
       <p><b>Multimodal Autonomous WhatsApp Assistant & Microservice Swarm</b></p>
       <p>Production conversational assistant leveraging <b>WhatsApp Business Cloud API (Graph v24.0)</b> and <b>Groq Cloud</b> (LLaMA-3.3-70B, LLaMA-3.1-8B, and Whisper-Large-v3). Bridges voice note transcription, Google Workspace automation (Calendar FreeBusy scheduling, Drive, Sheets expense ledger), multi-format OCR document conversion, and real-time Indian Railways PNR transit tracking.</p>
@@ -131,6 +105,16 @@ As an **AI Systems Architect** and former **Google Student Representative (Gemin
       <p>🔗 <a href="https://github.com/nleelaranga-ai/AI_Buddy_WA"><b>View Architecture & Assistant Swarm →</b></a></p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="left">🅿️ <a href="https://github.com/nleelaranga-ai/ParkShare">ParkShare</a></h3>
+      <p><b>Decentralized Peer-to-Peer Urban Parking Allocation Platform</b></p>
+      <p>Real-time distributed booking platform pairing space owners with urban commuters. Employs geospatial indexing (H3 / PostGIS), dynamic surge pricing algorithms, automated slot reservation locks, and instant QR verification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mapbox_GL-000000?style=flat-square&logo=mapbox&logoColor=white" />
+      </p>
+      <p>🔗 <a href="https://github.com/nleelaranga-ai/ParkShare"><b>View Architecture & Booking Engine →</b></a></p>
     </td>
   </tr>
 </table>
