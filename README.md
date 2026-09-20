@@ -116,6 +116,23 @@ As a **Smart India Hackathon Team Lead** (SIH 2026 & SIH 25029) and former **Goo
       <p>🔗 <a href="https://github.com/nleelaranga-ai/ParkShare"><b>View Architecture & Booking Engine →</b></a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🤖 <a href="https://github.com/nleelaranga-ai/AI_Buddy_WA">AI_Buddy_WA</a></h3>
+      <p><b>Multimodal Autonomous WhatsApp Assistant & Microservice Swarm</b></p>
+      <p>Production conversational assistant leveraging <b>WhatsApp Business Cloud API (Graph v24.0)</b> and <b>Groq Cloud</b> (LLaMA-3.3-70B, LLaMA-3.1-8B, and Whisper-Large-v3). Bridges voice note transcription, Google Workspace automation (Calendar FreeBusy scheduling, Drive, Sheets expense ledger), multi-format OCR document conversion, and real-time Indian Railways PNR transit tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq_LLaMA_3.3-F55036?style=flat-square&logo=groq&logoColor=white" />
+        <img src="https://img.shields.io/badge/Whisper_v3-00F0FF?style=flat-square&logo=openai&logoColor=black" />
+        <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask_Async-000000?style=flat-square&logo=flask&logoColor=white" />
+      </p>
+      <p>🔗 <a href="https://github.com/nleelaranga-ai/AI_Buddy_WA"><b>View Architecture & Assistant Swarm →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 ---
