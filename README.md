@@ -24,7 +24,7 @@
 
 I am an **AI Engineer & Data Science Undergraduate (B.Tech 2024–2028, CGPA 8.83/10)** at **VR Siddhartha Engineering College**, specializing in **Autonomous Agentic Systems**, **Cybersecurity Forensics**, and **Scalable Backend Architectures**. 
 
-As a **Smart India Hackathon Team Lead** (SIH 2026 & SIH 25029) and former **Google Student Representative (Gemini AI)**, I engineer mission-critical systems that bridge cutting-edge deep learning research with high-throughput distributed infrastructure. My work powers automated digital forensic investigations for CERT-In / cyber cells, deterministic edge IoT for agricultural supply chains, and event-driven multi-agent commerce workflows.
+As an **AI Systems Architect** and former **Google Student Representative (Gemini AI)**, I engineer mission-critical systems that bridge cutting-edge deep learning research with high-throughput distributed infrastructure. My work powers automated digital forensic investigations for CERT-In / cyber cells, deterministic edge IoT for agricultural supply chains, and event-driven multi-agent commerce workflows.
 
 * 🔭 **Currently Building**: Large-scale digital forensics pipelines and autonomous agent swarms with LLaMA 3, LangGraph, and FastAPI.
 * 🛠️ **Engineering Tenets**: Deterministic math over stochastic guesswork • Clean Architecture & Unidirectional Data Flow (UDF) • Sub-second API latencies • Automated CI/CD & zero-drop webhook processing.
@@ -206,10 +206,10 @@ As a **Smart India Hackathon Team Lead** (SIH 2026 & SIH 25029) and former **Goo
 
 ---
 
-### 🏆 Hackathon Leadership & Honors
+### 🏆 Hackathon Achievements & Honors
 
-* 🥇 **Team Lead — Smart India Hackathon 2026 (SIH26106)**: Architected *TraceMail-AI*, the premier cyber forensics platform selected for automated phishing investigation and IOC attribution.
-* 🥇 **Team Lead — Smart India Hackathon (SIH 25029)**: Spearheaded development of *Authenticity Validator*, combining computer vision OCR and distributed ledgers for academic credential verification.
+* 🥇 **Smart India Hackathon 2026 (SIH26106)**: Architected *TraceMail-AI*, the premier cyber forensics platform selected for automated phishing investigation and IOC attribution.
+* 🥇 **Smart India Hackathon (SIH 25029)**: Spearheaded development of *Authenticity Validator*, combining computer vision OCR and distributed ledgers for academic credential verification.
 * 🎖️ **Top 35 Finalist — TechSprint Hackathon**: Competed against 500+ teams nationwide with high-impact software solutions.
 * ⚡ **Google Student Representative (Gemini AI)**: Selected by Google to spearhead on-campus developer cohorts, leading technical workshops on prompt engineering, Gemini API microservices, and Vertex AI.
 * 🚀 **Participant**: IBM National Hackathon & Razorpay AI Buildathon (engineered high-throughput payment & financial agent prototypes).
