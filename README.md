@@ -234,7 +234,7 @@ As an **AI Systems Architect** and former **Google Student Representative (Gemin
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nleelaranga-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00f0ff&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" width="410" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nleelaranga-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00f0ff&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" width="410" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nleelaranga-ai&theme=tokyonight&hide_border=true&background=0a0e17&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" alt="GitHub Streak" width="410" />
@@ -242,7 +242,7 @@ As an **AI Systems Architect** and former **Google Student Representative (Gemin
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nleelaranga-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00f0ff&text_color=94a3b8" alt="Top Languages" width="500" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nleelaranga-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00f0ff&text_color=94a3b8" alt="Top Languages" width="500" />
       </td>
     </tr>
   </table>
